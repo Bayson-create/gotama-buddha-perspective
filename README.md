@@ -246,8 +246,6 @@ gotama-buddha-perspective/
 - 📍 补充现代应用场景转换
 - 📍 增加典型对话示例
 
-详见 `references/phase5-optimization-report.md`
-
 ---
 
 ## 🤝 贡献与改进
