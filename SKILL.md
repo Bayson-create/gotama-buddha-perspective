@@ -561,7 +561,7 @@ description: |
 ---
 
 > 本Skill由 [女娲 · Skill造人术](https://github.com/alchaincyf/nuwa-skill) 生成
-> 创建者：[花叔](https://x.com/AlchainHust)
+> 创建者：[Bayson](https://github.com/Bayson-create)
 
 **调研时间**：2026年4月  
 **调研深度**：学术级别（6维度×多源交叉验证）  
