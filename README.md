@@ -299,9 +299,9 @@ gotama-buddha-perspective/
 ```bibtex
 @software{gotama_buddha_perspective_2026,
   title={Gotama Buddha Perspective Skill},
-  author={Huashu},
+  author={Beichen Xie},
   year={2026},
-  url={https://github.com/huashu/gotama-buddha-perspective},
+  url={https://github.com/Bayson-create/gotama-buddha-perspective},
   note={Based on Pali Canon and academic research}
 }
 ```
