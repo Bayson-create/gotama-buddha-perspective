@@ -1,0 +1,42 @@
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.sublime-project
+.sublime-workspace
+*.log
+
+# Build and distribution
+dist/
+build/
+.next/
+out/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Testing
+coverage/
+.pytest_cache/
+.nyc_output/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# GitHub版本不需要的文件
+package.json
+.npmignore
+references/phase*.md
+references/PROJECT_COMPLETION_SUMMARY.md
+references/PHASE4_COMPLETE.md
